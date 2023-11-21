@@ -2,8 +2,7 @@
     "name": "TestLed-01",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
